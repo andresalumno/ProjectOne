@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "authors": [
+    "benedictolopez <31680925+benedictolopez@users.noreply.github.com>"
+  ],
+  "description": "is example of boostrap",
+  "main": "index.html",
+  "keywords": [
+    "123"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/benedictolopez/ProjectOne",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "boostrap": "^4.1.1",
+    "fontawesome": "^5.0.12",
+    "jquery": "^3.3.1",
+    "hammerjs": "^2.0.8"
+  }
+}
